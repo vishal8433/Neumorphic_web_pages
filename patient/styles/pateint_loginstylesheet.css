@@ -1,0 +1,183 @@
+/*----------nav bar-----------*/
+body{
+    background-color: #b40bb7;
+    overflow-x: hidden;
+}
+nav {
+    background-color: #b40bb7;
+    margin: 0;
+    padding: 0;
+    box-shadow:  5px 5px 22px #800882, 
+             -5px -5px 22px #e80eec;
+    overflow-x: hidden;
+}
+
+.item1 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item3 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.dropdown {
+    background-color: aliceblue;
+
+}
+
+.brand-name {
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+.contactbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #b40bb7;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     box-shadow:  5px 5px 22px #800882, 
+             -5px -5px 22px #e80eec;
+}
+
+.contactbtn:hover {
+    background-color: white;
+    color: #b40bb7;
+}
+.col1{
+    background-color: #b40bb7;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow:  5px 5px 22px #800882, 
+             -5px -5px 22px #e80eec;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.loginimg{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    margin-top: 15px;
+    box-shadow:  5px 5px 22px #800882, 
+             -5px -5px 22px #e80eec;
+    margin-bottom: 15px;
+}
+.loginline{
+    text-align: center;
+    color: white;
+    font-family: serif;
+    text-transform: capitalize;
+    font-size-adjust: auto;
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    color: white;
+    font-family: serif;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-size-adjust: auto;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    height: 40px;
+    width: 280px;
+    margin-bottom: 10px;
+}
+.lbtn{
+    background-color: #fb05ff;
+    box-shadow:  5px 5px 22px #b204b5, 
+             -5px -5px 22px #ff06ff;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.lbtn:hover{
+    background-color: darkred;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+/*----  ----footer----- --------*/
+.f1 {
+    background-color: #b40bb7;
+    box-shadow:  5px 5px 22px #800882, 
+             -5px -5px 22px #e80eec;
+    overflow-x: hidden;
+}
+
+.infomationtag {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.ourservicesheader {
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.ourservicesparagraph {
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    font-family: serif;
+}
+
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-family: serif;
+}

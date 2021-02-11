@@ -1,0 +1,292 @@
+/*----------nav bar-----------*/
+body{
+    background-color: #28d7d5;
+    overflow-x: hidden;
+}
+nav {
+    background-color: #28d7d5;
+    margin: 0;
+    padding: 0;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    overflow-x: hidden;
+}
+
+.item1 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item3 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.dropdown {
+    background-color: aliceblue;
+
+}
+
+.brand-name {
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+.contactbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #28d7d5;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+}
+
+.contactbtn:hover {
+    background-color: white;
+    color: #28d7d5;
+}
+
+.loginbtn {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 40px;
+    width: 200px;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #28d7d5;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+   overflow-x: hidden;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+}
+.loginbtn:hover {
+    background-color: white;
+    color: #28d7d5;
+}
+
+.signbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #28d7d5;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: serif;
+  overflow-x: hidden;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+}
+.signbtn:hover {
+    background-color: white;
+    color: #28d7d5;
+}
+
+/*----  ----footer----- --------*/
+.f1 {
+    background-color: #28d7d5;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    overflow-x: hidden;
+}
+
+.infomationtag {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.ourservicesheader {
+    text-align: left;
+    color: black;
+    font-size: 18px;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.ourservicesparagraph {
+    font-size: 15px;
+    color: black;
+    margin-top: 10px;
+    font-family: serif;
+}
+
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-family: serif;
+}
+
+.loginheader{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-family: serif;
+    margin-top: 30px;
+}
+.categoryheader{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-family: serif;
+    margin-top: 10px;
+}
+.col1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: #28d7d5;
+   box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    overflow-x: hidden;
+}
+.col1:hover{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: #28d7d5;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    overflow-x: hidden;
+}
+.col2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: #28d7d5;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    overflow-x: hidden;
+}
+.col2:hover{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: #28d7d5;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    overflow-x: hidden;
+}
+.cardimg{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    border-radius: 20px;
+    height: 260px;
+    width: 260px;
+}
+
+.cardimg:hover{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    box-shadow:  20px 20px 60px #22b7b5, 
+             -20px -20px 60px #2ef7f5;
+    border-radius: 20px;
+    height: 260px;
+    width: 260px;
+    border-bottom: 5px solid darkblue;
+     border-top: 5px solid darkblue;
+}
+.atag{
+    color: black;
+}
+.atag:hover{
+    color: darkblue;
+    text-decoration: none;
+}
+
+.patienttag{
+   margin-left: 65px;
+    text-transform: capitalize;
+    font-family: serif;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.doctortag{
+   margin-left: 65px;
+    text-transform: capitalize;
+    font-family: serif;
+    margin-top: 20px;
+    font-size: 30px;
+}
